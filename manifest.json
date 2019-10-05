@@ -1,0 +1,8 @@
+{
+  "domain": "telnet_commands",
+  "name": "Telnet commands.",
+  "documentation": "",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}
